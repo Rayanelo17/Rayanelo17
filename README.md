@@ -1,10 +1,10 @@
 <!-- Header avec effet "Typing" dynamique -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rayanelo17;A+Mobile+%26+Web+Developer;Building+Solutions+with+React+Native;Coding+in+C%23+and+Java" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rayanelo17;Future+AI+%26+Data+Engineer;Mobile+%26+Web+Developer;Building+Smart+Solutions" alt="Typing effect" />
 </div>
 
 <div align="center">
-  <h3>🚀 Passionné par le développement mobile et l'ingénierie logicielle</h3>
+  <h3>🚀 Passionné par le développement, l'IA et la Data Science</h3>
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 <!-- Section "About Me" stylisée -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" /> 
-  Je transforme des idées complexes en applications fluides et performantes.
+  Actuellement développeur mobile & web, je me spécialise pour devenir <b>Ingénieur en Intelligence Artificielle et Data</b>.
 </div>
 
 <br/>
