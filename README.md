@@ -1,6 +1,6 @@
 <!-- Header avec effet "Typing" dynamique -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rayanelo17;Future+AI+%26+Data+Engineer;System+Engineering+Student;Mobile+%26+Web+Developer" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Riayane+Abdelkader+Lotfi;Future+AI+%26+Data+Engineer;System+Engineering+Student;Mobile+%26+Web+Developer" alt="Typing effect" />
 </div>
 
 <div align="center">
