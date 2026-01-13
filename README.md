@@ -35,6 +35,38 @@
 
 <br/>
 
+<!-- Section Projets Récents -->
+<h3 align="center">💻 Mes Projets Récents</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <b>🌦️ Weather Mobile App</b><br/>
+        <sub>React Native • Expo • SQLite</sub><br/>
+        <br/>
+        <a href="https://github.com/Rayanelo17/Weather-Mobile-App-main">Voir le Code</a>
+      </td>
+      <td width="33%" align="center">
+        <b>🛍️ ModeMen E-Commerce</b><br/>
+        <sub>C# • .NET Core • SQL Server</sub><br/>
+        <br/>
+        <a href="https://github.com/Rayanelo17/NOM_DU_REPO_MODEMEN">Voir le Code</a>
+      </td>
+      <td width="33%" align="center">
+        <b>💬 JavaFX Chat App</b><br/>
+        <sub>Java • JavaFX • MySQL</sub><br/>
+        <br/>
+        <a href="https://github.com/Rayanelo17/NOM_DU_REPO_CHAT">Voir le Code</a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+   <i>Et bien plus sur mon <a href="https://TON_PORTFOLIO.com">Portfolio Web</a>...</i>
+</div>
+
+<br/>
+
 <!-- Statistiques GitHub dynamiques -->
 <h3 align="center">📊 Mes Statistiques</h3>
 <div align="center">
